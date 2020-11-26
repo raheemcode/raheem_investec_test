@@ -1,0 +1,5 @@
+C:\Users\rahee\Documents\Investec Contract\tech-test-master\TechTest\AnyCompany\bin\Debug\AnyCompany.dll
+C:\Users\rahee\Documents\Investec Contract\tech-test-master\TechTest\AnyCompany\bin\Debug\AnyCompany.pdb
+C:\Users\rahee\Documents\Investec Contract\tech-test-master\TechTest\AnyCompany\obj\Debug\AnyCompany.csprojResolveAssemblyReference.cache
+C:\Users\rahee\Documents\Investec Contract\tech-test-master\TechTest\AnyCompany\obj\Debug\AnyCompany.dll
+C:\Users\rahee\Documents\Investec Contract\tech-test-master\TechTest\AnyCompany\obj\Debug\AnyCompany.pdb
